@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoDutch</string>
+    <string name="tvTopTitle">AA小助手</string>
+    <string name="welcome_info">欢迎你使用AA小助手！</string>
+
+    <string name="appGridTextPayoutAdd">记录</string>
+    <string name="appGridTextPayoutManage">查询</string>
+    <string name="appGridTextAccountBookManage">账本</string>
+    <string name="appGridTextStatisticsManage">统计</string>
+    <string name="appGridTextCategoryManage">类别</string>
+    <string name="appGridTextUserManage">人员</string>
+</resources>
